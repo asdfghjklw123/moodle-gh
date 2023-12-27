@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/moodle-gh/static/css/main.e262a3c3.css",
+    "main.js": "/moodle-gh/static/js/main.454234ec.js",
+    "static/media/image2.svg": "/moodle-gh/static/media/image2.70fbab807572ae85cc99365b850d52f5.svg",
+    "static/media/image3.svg": "/moodle-gh/static/media/image3.070a2b4eccece264ec5037e23f7ee69c.svg",
+    "static/media/image4.svg": "/moodle-gh/static/media/image4.d0e07e8b423e9d864fd4b56318611e9c.svg",
+    "static/media/wallpaper1.svg": "/moodle-gh/static/media/wallpaper1.ea96a15bb3115007ec7d.svg",
+    "static/media/achieves.png": "/moodle-gh/static/media/achieves.41c26ff939dc7b0fc7b1.png",
+    "static/media/image1.svg": "/moodle-gh/static/media/image1.e8836e5e1b5be46b18d01eea3f50f61a.svg",
+    "static/media/avatar.png": "/moodle-gh/static/media/avatar.934339d98b117001e1d3.png",
+    "static/media/lock.png": "/moodle-gh/static/media/lock.8cbb399ca7576007f8a0.png",
+    "static/media/cap.svg": "/moodle-gh/static/media/cap.7064bee77a1310d0135e540315cc5645.svg",
+    "static/media/chel.svg": "/moodle-gh/static/media/chel.bf04b3b1e3c638af98a601f48dcf6994.svg",
+    "static/media/grad-cap.svg": "/moodle-gh/static/media/grad-cap.698ca05f7e56aecff7ffe805d43bba8b.svg",
+    "static/media/white-cap.svg": "/moodle-gh/static/media/white-cap.f18875ed6469ba663442296acb0b40a9.svg",
+    "static/media/gender.svg": "/moodle-gh/static/media/gender.fd4b08a7fc0d79758812e56709af923a.svg",
+    "static/media/university.svg": "/moodle-gh/static/media/university.11c62f7309b1ea446d5a0d471049dec0.svg",
+    "static/media/year.svg": "/moodle-gh/static/media/year.62595ecbf1330a53dc282f4d4766e10b.svg",
+    "index.html": "/moodle-gh/index.html",
+    "static/media/major.svg": "/moodle-gh/static/media/major.e5a7ede5f411e0364d5cd24a0aaf37bc.svg",
+    "static/media/map-regular.svg": "/moodle-gh/static/media/map-regular.6df9e93251b9ee9d12374c98551f3e1a.svg",
+    "static/media/phone.svg": "/moodle-gh/static/media/phone.3c9883a9144909a01516a9ea9b8434c3.svg",
+    "static/media/birth.svg": "/moodle-gh/static/media/birth.e4620f7d925fa0af5fec4fb112d1f035.svg",
+    "static/media/email.svg": "/moodle-gh/static/media/email.116187029bc917db83818283edf1eda9.svg",
+    "static/media/arrow.svg": "/moodle-gh/static/media/arrow.e084759a3da4af2042624f3aba8d7013.svg",
+    "static/media/white-arrow.svg": "/moodle-gh/static/media/white-arrow.7f66836555c70991616d697964a4eee9.svg",
+    "static/media/password.svg": "/moodle-gh/static/media/password.796e9d0d97f4f5a41e76048745d3e460.svg",
+    "static/media/vector.svg": "/moodle-gh/static/media/vector.3a06fbdc2ad8592c01d371b41de904f2.svg",
+    "static/media/user.svg": "/moodle-gh/static/media/user.08d552810b9f5e959a58d9fb643e2d9a.svg",
+    "main.e262a3c3.css.map": "/moodle-gh/static/css/main.e262a3c3.css.map",
+    "main.454234ec.js.map": "/moodle-gh/static/js/main.454234ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e262a3c3.css",
+    "static/js/main.454234ec.js"
+  ]
+}
